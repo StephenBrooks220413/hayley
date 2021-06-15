@@ -84,6 +84,7 @@
 .container1 > h1 {
   font-size: 3.6em;
   font-weight: bold;
+  padding: 1px;
 }
 
 .container1 > h2 {
